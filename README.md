@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning flutter deeper
 - 👯 I’m looking to collaborate on anything with fun
 - 💬 Ask me about anything
-- 📫 How to reach me via [my website](brtzl.tech)
+- 📫 How to reach me via [my website](https://www.brtzl.tech)
