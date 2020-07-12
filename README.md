@@ -5,7 +5,9 @@
 -->
 
 
-![Hacker](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
+![dino](https://github.com/BRTZL/BRTZL/blob/master/dino.gif)
+
+
 - You can reach me via [my website](https://www.brtzl.tech)
 <!--
 - 🔭 I’m currently working on some projects
