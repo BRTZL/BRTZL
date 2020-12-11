@@ -1,7 +1,7 @@
 
 ### This is me
 
-![dino](https://github.com/BRTZL/BRTZL/blob/master/dino.gif)
+![dino](https://github.com/BRTZL/BRTZL/blob/master/dino.gif?raw=true)
 
 ![BRTZL's github stats](https://github-readme-stats.vercel.app/api?username=BRTZL&count_private=true&show_icons=true&hide=issues)
 
