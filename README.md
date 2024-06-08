@@ -23,9 +23,3 @@
 <p align="center" class="about-me">
 You can find me on <a href="https://www.linkedin.com/in/brtzl">Linkedin</a>, <a href="https://www.instagram.com/mr.brtzl">Instagram</a> or on <a href="https://twitter.com/mr_brtzl">Twitter</a>.
 </p>
-    
-    
-
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/BRTZL/BRTZL/blob/master/pattern.png?raw=true');]{x0000}$}
